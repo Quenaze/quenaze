@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am Quenaze 
+Hello, I am Paster
 
 
 ## 🌐 Socials:
