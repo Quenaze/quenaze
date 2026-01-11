@@ -3,8 +3,7 @@ Hello, I am Paster
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sqxjBunbzW) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/batu.kesin)
-
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sqxjBunbzW) 
 ## 🛠 Tech Stack
 
 ### 🔧 Languages
