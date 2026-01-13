@@ -3,7 +3,8 @@ Hello, I am Paster
 
 
 ## 🌐 Socials:
-![Discord](https://img.shields.io/badge/Discord%20Community-Join%20Now-5865F2?style=for-the-badge&logo=discord&logoColor=white) 
+[![Discord](https://img.shields.io/badge/Discord%20Community-Join%20Now-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sqxjBunbzW)
+
 ## 🛠 Tech Stack
 
 ### 🔧 Languages
